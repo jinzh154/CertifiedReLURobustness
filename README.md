@@ -45,12 +45,7 @@ recommended to use new algorithms in the following papers:
 }
 ```
 
-**It is recommended to use the new implementation of Fast-Lin and Fast-Lip at
-https://github.com/huanzhang12/RecurJac-Jacobian-Bounds**. The new implementation
-has better readability, includes an unified interface to run all our
-algorithms, and also contains some bug fixes.
-
-The code in this repository will be not maintained and is intended to reproduce paper results only.
+Please use the code provided in the new papers above. The code in this repository will be not maintained and is intended to reproduce paper results only. 
 
 Prerequisites
 -----------------------
